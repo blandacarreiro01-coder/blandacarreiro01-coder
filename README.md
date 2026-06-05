@@ -6,7 +6,7 @@
 
 ---
 
-### 💻 Linguagens e Tecnologias (estudando)
+### 💻 Linguagens e Tecnologias (studying)
 <img 
     align="left" 
     alt="HTML"
