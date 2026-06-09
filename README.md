@@ -4,7 +4,7 @@
   
   My name is Blanda. I'm 16 years old and I study at the IFPI Campus Pedro II. I'm currently trying to learn a little bit about technology and the world of computing! This is my perfil on instagram: "[blaandmesquita](https://www.instagram.com/blaandmesquita/)".
 
-# future full stack #
+### future full stack ###
 ---
 
 ### 💻 Linguagens e Tecnologias (studying)
